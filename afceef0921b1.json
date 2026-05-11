@@ -1,0 +1,135 @@
+{
+  "name": "Main pack Uno",
+  "game_version": null,
+  "created_by": "sts2-mod-manager",
+  "mods": [
+    {
+      "name": "BaseLib",
+      "version": "unknown",
+      "source": null,
+      "hash": "54ab82b7a141e9afb03438cbbfb6ec079c182dbddcba760a9c0ea4e7a32d5de0",
+      "files": [
+        "watched dependency(Base lib 3.1.0)\\BaseLib.dll",
+        "watched dependency(Base lib 3.1.0)\\BaseLib.pck"
+      ],
+      "folder_name": "watched dependency(Base lib 3.1.0)",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/Akira2276/sts2mm-profiles/main/mods/BaseLib_unknown.zip"
+    },
+    {
+      "name": "Booba Necrobinder Mod",
+      "version": "v1.0.6",
+      "source": null,
+      "hash": "7f905fa75c20a41fb43b63d63ab90d1c94d1e9bdc6a2f799c24122266d027412",
+      "files": [
+        "Booba necro\\Booba-Necrobinder-Mod.dll",
+        "Booba necro\\Booba-Necrobinder-Mod.json",
+        "Booba necro\\Booba-Necrobinder-Mod.pck"
+      ],
+      "folder_name": "Booba necro",
+      "mod_id": "Booba-Necrobinder-Mod",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/Akira2276/sts2mm-profiles/main/mods/Booba_Necrobinder_Mod_1.0.6.zip"
+    },
+    {
+      "name": "Cirno",
+      "version": "unknown",
+      "source": null,
+      "hash": "e4d2f8790bdd3030864c4b25aa61a66c9154ae79acd978884193c94cacb48072",
+      "files": [
+        "Cirno\\Cirno.dll",
+        "Cirno\\Cirno.pck"
+      ],
+      "folder_name": "Cirno",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/Akira2276/sts2mm-profiles/main/mods/Cirno_unknown.zip"
+    },
+    {
+      "name": "KeyboardQuickPlay",
+      "version": "unknown",
+      "source": null,
+      "hash": "86208f965102a93e31a13a84f2513de3cad942e39ae070c05b2629f48ff0cf6a",
+      "files": [
+        "keyboard quick play\\KeyboardQuickPlay.dll"
+      ],
+      "folder_name": "keyboard quick play",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/Akira2276/sts2mm-profiles/main/mods/KeyboardQuickPlay_unknown.zip"
+    },
+    {
+      "name": "Laharl",
+      "version": "v0.0.0",
+      "source": null,
+      "hash": "23510ede1a8d35caf883536bb4d45b7c2e497b525b51bc0cb6b7aa373af40296",
+      "files": [
+        "Laharl\\Laharl.dll",
+        "Laharl\\Laharl.json",
+        "Laharl\\Laharl.pck"
+      ],
+      "folder_name": "Laharl",
+      "mod_id": "Laharl",
+      "enabled": true
+    },
+    {
+      "name": "Painter",
+      "version": "0.1",
+      "source": null,
+      "hash": "7895980f9b132e2d4f3523eba4a07b9d79ab8da0b54b5d41206685f0d51dac73",
+      "files": [
+        "Painter\\Painter.dll",
+        "Painter\\Painter.json",
+        "Painter\\Painter.pck"
+      ],
+      "folder_name": "Painter",
+      "mod_id": "Painter",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/Akira2276/sts2mm-profiles/main/mods/Painter_0.1.zip"
+    },
+    {
+      "name": "Portalcraft",
+      "version": "v0.2.7",
+      "source": null,
+      "hash": "66168269d2535a39e9854e6571ed2eb29a1e83c37f7fa861744cdd4915a2fc4a",
+      "files": [
+        "sts2_char_portalcraft\\sts2_char_portalcraft.dll",
+        "sts2_char_portalcraft\\sts2_char_portalcraft.json",
+        "sts2_char_portalcraft\\sts2_char_portalcraft.pck"
+      ],
+      "folder_name": "sts2_char_portalcraft",
+      "mod_id": "sts2_char_portalcraft",
+      "enabled": true
+    },
+    {
+      "name": "Unified Save Path",
+      "version": "1.0.0",
+      "source": null,
+      "hash": "08b7cbb36c7b48820e44c060d2dc6b6c49edbb945c7cb1e8f7a44866f7c650cc",
+      "files": [
+        "unified save file\\UnifiedSavePath.dll",
+        "unified save file\\UnifiedSavePath.json",
+        "unified save file\\UnifiedSavePath.pck"
+      ],
+      "folder_name": "unified save file",
+      "mod_id": "UnifiedSavePath",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/Akira2276/sts2mm-profiles/main/mods/Unified_Save_Path_1.0.0.zip"
+    },
+    {
+      "name": "Watcher",
+      "version": "v1.4.3",
+      "source": null,
+      "hash": "5d9d2852d229e062aea00b82fcc704042a9d972086b748e3a4e45b76b2894942",
+      "files": [
+        "the watcher class mod\\Watcher.dll",
+        "the watcher class mod\\Watcher.json",
+        "the watcher class mod\\Watcher.pck"
+      ],
+      "folder_name": "the watcher class mod",
+      "mod_id": "Watcher",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/Akira2276/sts2mm-profiles/main/mods/Watcher_1.4.3.zip"
+    }
+  ],
+  "created_at": "2026-05-11T22:10:52.347200800Z",
+  "updated_at": "2026-05-11T22:10:54.977684800Z"
+}
