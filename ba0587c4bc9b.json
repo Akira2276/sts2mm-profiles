@@ -1,0 +1,173 @@
+{
+  "name": "Main modpack DOs",
+  "game_version": null,
+  "created_by": "sts2-mod-manager",
+  "mods": [
+    {
+      "name": "BaseLib",
+      "version": "v3.1.3",
+      "source": null,
+      "hash": "9e950d70598706e8cc47d05a1f64bb2836b4c1bdd8d1729a1e278c268e148829",
+      "files": [
+        "BaseLib\\BaseLib.dll",
+        "BaseLib\\BaseLib.json",
+        "BaseLib\\BaseLib.pck"
+      ],
+      "folder_name": "BaseLib",
+      "mod_id": "BaseLib",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/Akira2276/sts2mm-profiles/main/mods/BaseLib_3.1.3.zip"
+    },
+    {
+      "name": "Keyboard Quick Play",
+      "version": "v1.0.7",
+      "source": null,
+      "hash": "86208f965102a93e31a13a84f2513de3cad942e39ae070c05b2629f48ff0cf6a",
+      "files": [
+        "KeyboardQuickPlay\\KeyboardQuickPlay.dll",
+        "KeyboardQuickPlay\\KeyboardQuickPlay.json"
+      ],
+      "folder_name": "KeyboardQuickPlay",
+      "mod_id": "KeyboardQuickPlay",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/Akira2276/sts2mm-profiles/main/mods/Keyboard_Quick_Play_1.0.7.zip"
+    },
+    {
+      "name": "Painter",
+      "version": "0.32",
+      "source": null,
+      "hash": "b933db75f0c8dbe00516ca5df2371e7334923dd27b055fa80f3cc4b1680afd2b",
+      "files": [
+        "Painter\\Painter.dll",
+        "Painter\\Painter.json",
+        "Painter\\Painter.pck"
+      ],
+      "folder_name": "Painter",
+      "mod_id": "Painter",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/Akira2276/sts2mm-profiles/main/mods/Painter_0.32.zip"
+    },
+    {
+      "name": "Portalcraft",
+      "version": "v0.2.7",
+      "source": null,
+      "hash": "66168269d2535a39e9854e6571ed2eb29a1e83c37f7fa861744cdd4915a2fc4a",
+      "files": [
+        "sts2_char_portalcraft\\sts2_char_portalcraft.dll",
+        "sts2_char_portalcraft\\sts2_char_portalcraft.json",
+        "sts2_char_portalcraft\\sts2_char_portalcraft.pck"
+      ],
+      "folder_name": "sts2_char_portalcraft",
+      "mod_id": "sts2_char_portalcraft",
+      "enabled": true
+    },
+    {
+      "name": "Unified Save Path",
+      "version": "1.0.0",
+      "source": null,
+      "hash": "08b7cbb36c7b48820e44c060d2dc6b6c49edbb945c7cb1e8f7a44866f7c650cc",
+      "files": [
+        "UnifiedSavePath\\UnifiedSavePath.dll",
+        "UnifiedSavePath\\UnifiedSavePath.json",
+        "UnifiedSavePath\\UnifiedSavePath.pck"
+      ],
+      "folder_name": "UnifiedSavePath",
+      "mod_id": "UnifiedSavePath",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/Akira2276/sts2mm-profiles/main/mods/Unified_Save_Path_1.0.0.zip"
+    },
+    {
+      "name": "Watcher",
+      "version": "v1.4.3",
+      "source": null,
+      "hash": "5d9d2852d229e062aea00b82fcc704042a9d972086b748e3a4e45b76b2894942",
+      "files": [
+        "Watcher\\Watcher.dll",
+        "Watcher\\Watcher.json",
+        "Watcher\\Watcher.pck"
+      ],
+      "folder_name": "Watcher",
+      "mod_id": "Watcher",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/Akira2276/sts2mm-profiles/main/mods/Watcher_1.4.3.zip"
+    },
+    {
+      "name": "琪露诺",
+      "version": "0.6",
+      "source": null,
+      "hash": "c141e6b31895ed503a49ad6b1d71d5ffc7d91f5b9d51a5ec50cd6c53c6831ba1",
+      "files": [
+        "Cirno\\Cirno.dll",
+        "Cirno\\Cirno.json",
+        "Cirno\\Cirno.pck"
+      ],
+      "folder_name": "Cirno",
+      "mod_id": "Cirno",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/Akira2276/sts2mm-profiles/main/mods/琪露诺_0.6.zip"
+    },
+    {
+      "name": "黑夜统治",
+      "version": "1.0",
+      "source": null,
+      "hash": "3216990eaa32336acd8eba1a40d8ede2a1690cfb344f1da9ffa04f89889c9d66",
+      "files": [
+        "nightreign\\map\\map.json",
+        "nightreign\\map\\map_01.json",
+        "nightreign\\nightreign.dll",
+        "nightreign\\nightreign.json"
+      ],
+      "folder_name": "nightreign",
+      "mod_id": "nightreign",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/Akira2276/sts2mm-profiles/main/mods/黑夜统治_1.0.zip"
+    },
+    {
+      "name": "Booba Necrobinder Mod",
+      "version": "v1.0.6",
+      "source": null,
+      "hash": "7f905fa75c20a41fb43b63d63ab90d1c94d1e9bdc6a2f799c24122266d027412",
+      "files": [
+        "Booba-Necrobinder-Mod\\Booba-Necrobinder-Mod.dll",
+        "Booba-Necrobinder-Mod\\Booba-Necrobinder-Mod.json",
+        "Booba-Necrobinder-Mod\\Booba-Necrobinder-Mod.pck"
+      ],
+      "folder_name": "Booba-Necrobinder-Mod",
+      "mod_id": "Booba-Necrobinder-Mod",
+      "enabled": false,
+      "bundle_url": "https://raw.githubusercontent.com/Akira2276/sts2mm-profiles/main/mods/Booba_Necrobinder_Mod_1.0.6.zip"
+    },
+    {
+      "name": "Notira",
+      "version": "0.0.1",
+      "source": null,
+      "hash": "bd671e676c45aa56700bdf9708a9fa32cdccdb4b8a3c3972f315a85bc4fa615e",
+      "files": [
+        "Notira\\Notira.dll",
+        "Notira\\Notira.json",
+        "Notira\\Notira.pck"
+      ],
+      "folder_name": "Notira",
+      "mod_id": "Notira",
+      "enabled": false,
+      "bundle_url": "https://raw.githubusercontent.com/Akira2276/sts2mm-profiles/main/mods/Notira_0.0.1.zip"
+    },
+    {
+      "name": "STS2-FSF-gil-regent",
+      "version": "0.1.0",
+      "source": null,
+      "hash": "4cc3b044078b2e21f46f4f5bd20041ca7edc7eb86cd0cfd7b6732d64b702beda",
+      "files": [
+        "STS2-FSF-gil-regent\\STS2-FSF-gil-regent.dll",
+        "STS2-FSF-gil-regent\\STS2-FSF-gil-regent.json",
+        "STS2-FSF-gil-regent\\STS2-FSF-gil-regent.pck"
+      ],
+      "folder_name": "STS2-FSF-gil-regent",
+      "mod_id": "STS2-FSF-gil-regent",
+      "enabled": false,
+      "bundle_url": "https://raw.githubusercontent.com/Akira2276/sts2mm-profiles/main/mods/STS2-FSF-gil-regent_0.1.0.zip"
+    }
+  ],
+  "created_at": "2026-05-13T19:17:34.680835200Z",
+  "updated_at": "2026-05-13T19:17:34.680835200Z"
+}
