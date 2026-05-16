@@ -17,7 +17,7 @@
       "mod_id": "BaseLib",
       "enabled": true,
       "bundle_url": "https://github.com/Akira2276/sts2mm-profiles/releases/download/bundles/BaseLib_v3.1.3.zip",
-      "bundle_sha256": "3c51871d249b214c9f2619139a8cedceeedae43c7e2a23489ed430fed9f99da2"
+      "bundle_sha256": "0d2f59af907c536a57362faa785cdb91b1da087228a0f584233c59a7e0971dfe"
     },
     {
       "name": "Booba Necrobinder Mod",
@@ -33,7 +33,23 @@
       "mod_id": "Booba-Necrobinder-Mod",
       "enabled": true,
       "bundle_url": "https://github.com/Akira2276/sts2mm-profiles/releases/download/bundles/Booba_Necrobinder_Mod_v1.0.7.zip",
-      "bundle_sha256": "c2693eb0e90ebc17683822667f4903ec27a68904ddc473253ccd27514ff30724"
+      "bundle_sha256": "e7ef5dc48e1743a8e6d2853aadecb754d85c89d02e15ed58990d4898ba896ca7"
+    },
+    {
+      "name": "Card Overhaul",
+      "version": "1.0.0",
+      "source": null,
+      "hash": "db41fbbf0ba6ee8ebbc6d384e9372f63afc8b8f682dca1956aa402f163b73fd8",
+      "files": [
+        "CardOverhaul\\CardOverhaul.dll",
+        "CardOverhaul\\CardOverhaul.json",
+        "CardOverhaul\\CardOverhaul.pck"
+      ],
+      "folder_name": "CardOverhaul",
+      "mod_id": "CardOverhaul",
+      "enabled": true,
+      "bundle_url": "https://github.com/Akira2276/sts2mm-profiles/releases/download/bundles/Card_Overhaul_v1.0.0.zip",
+      "bundle_sha256": "d6bd80b35c4719ab45b1ea8989c364ecbf3b6bec95a29b10a786818ccd84a4aa"
     },
     {
       "name": "Keyboard Quick Play",
@@ -48,39 +64,23 @@
       "mod_id": "KeyboardQuickPlay",
       "enabled": true,
       "bundle_url": "https://github.com/Akira2276/sts2mm-profiles/releases/download/bundles/Keyboard_Quick_Play_v1.0.7.zip",
-      "bundle_sha256": "4e0878c3c294248aadc3f6910e07b4df0d9d82c04af0ad44b36a814f2a7f6923"
+      "bundle_sha256": "d001332d9ddc6d23e563f0e91a465367bcbad3b97babd20a4c6f07a18054cec8"
     },
     {
-      "name": "Painter",
-      "version": "0.32",
+      "name": "Overlord Laharl",
+      "version": "v0.9.3",
       "source": null,
-      "hash": "b933db75f0c8dbe00516ca5df2371e7334923dd27b055fa80f3cc4b1680afd2b",
+      "hash": "2c5426bc9a48482e5a0e3b5acc14485dd4173538e4acb62d53e508aeecb2be2f",
       "files": [
-        "Painter\\Painter.dll",
-        "Painter\\Painter.json",
-        "Painter\\Painter.pck"
+        "Laharl\\Laharl.dll",
+        "Laharl\\Laharl.json",
+        "Laharl\\Laharl.pck"
       ],
-      "folder_name": "Painter",
-      "mod_id": "Painter",
+      "folder_name": "Laharl",
+      "mod_id": "Laharl",
       "enabled": true,
-      "bundle_url": "https://github.com/Akira2276/sts2mm-profiles/releases/download/bundles/Painter_v0.32.zip",
-      "bundle_sha256": "3a65be199ca1fced1634f4c4bc91d9e298e88b4157e57826a55cc3dc209031e2"
-    },
-    {
-      "name": "Portalcraft",
-      "version": "v0.2.8",
-      "source": null,
-      "hash": "17ae4ff3ee5f973d50396997bdc773378bfb97f64782858e1a176fcd4b783c52",
-      "files": [
-        "sts2_char_portalcraft\\sts2_char_portalcraft.dll",
-        "sts2_char_portalcraft\\sts2_char_portalcraft.json",
-        "sts2_char_portalcraft\\sts2_char_portalcraft.pck"
-      ],
-      "folder_name": "sts2_char_portalcraft",
-      "mod_id": "sts2_char_portalcraft",
-      "enabled": true,
-      "bundle_url": "https://github.com/Akira2276/sts2mm-profiles/releases/download/bundles/Portalcraft_v0.2.8.zip",
-      "bundle_sha256": "79bc2e5a86b12640e6970d05b1e8df1576360b87a1ccc15bcbf64d5e1a1ee857"
+      "bundle_url": "https://github.com/Akira2276/sts2mm-profiles/releases/download/bundles/Overlord_Laharl_v0.9.3.zip",
+      "bundle_sha256": "6c69ec5c626fbb2aa01160fed7cbd7ae4f5cc78c4190aa1d55ca019e29cc6cfc"
     },
     {
       "name": "STS2-FSF-gil-regent",
@@ -96,7 +96,7 @@
       "mod_id": "STS2-FSF-gil-regent",
       "enabled": true,
       "bundle_url": "https://github.com/Akira2276/sts2mm-profiles/releases/download/bundles/STS2-FSF-gil-regent_v0.1.0.zip",
-      "bundle_sha256": "95cdb433c40b57c56fb16971a3db54ae76cad8fe82d5ccb3593c23c4751f4c7c"
+      "bundle_sha256": "95044426273435228b3b902b8e93b26dab62687ab6ae62e38abe5710f453312e"
     },
     {
       "name": "Unified Save Path",
@@ -112,26 +112,74 @@
       "mod_id": "UnifiedSavePath",
       "enabled": true,
       "bundle_url": "https://github.com/Akira2276/sts2mm-profiles/releases/download/bundles/Unified_Save_Path_v1.0.0.zip",
-      "bundle_sha256": "6dd4209f36961bdc58b024c8c59b21a2f19251f7a16172da11aba33c208f0724"
+      "bundle_sha256": "893b5a5d87982182f56e06e713a86be6124596d93a507d70372a9240775b3b07"
     },
     {
-      "name": "琪露诺",
-      "version": "0.6",
+      "name": "皮皮配置: ModConfig",
+      "version": "0.2.3",
       "source": null,
-      "hash": "c141e6b31895ed503a49ad6b1d71d5ffc7d91f5b9d51a5ec50cd6c53c6831ba1",
+      "hash": "8447e852546eb29bd058d9c49c1def0ef09f312d3e7073c7c7cb1586a5edbf8f",
       "files": [
-        "Cirno\\Cirno.dll",
-        "Cirno\\Cirno.json",
-        "Cirno\\Cirno.pck"
+        "ModConfig\\ModConfig.dll",
+        "ModConfig\\ModConfig.json",
+        "ModConfig\\ModConfig.pck"
       ],
-      "folder_name": "Cirno",
-      "mod_id": "Cirno",
+      "folder_name": "ModConfig",
+      "mod_id": "ModConfig",
       "enabled": true,
-      "bundle_url": "https://github.com/Akira2276/sts2mm-profiles/releases/download/bundles/____v0.6.zip",
-      "bundle_sha256": "ffec9b89381e87be47fb7f11d6162c68e032d76080dc79c3938b0914fbf5f9b4"
+      "bundle_url": "https://github.com/Akira2276/sts2mm-profiles/releases/download/bundles/______ModConfig_v0.2.3.zip",
+      "bundle_sha256": "2c808ca213e2f931018db00a32948bcce16e945f9ce23d7dec56ebe40717b945"
+    },
+    {
+      "name": "Painter",
+      "version": "0.32",
+      "source": null,
+      "hash": "b933db75f0c8dbe00516ca5df2371e7334923dd27b055fa80f3cc4b1680afd2b",
+      "files": [
+        "Painter\\Painter.dll",
+        "Painter\\Painter.json",
+        "Painter\\Painter.pck"
+      ],
+      "folder_name": "Painter",
+      "mod_id": "Painter",
+      "enabled": false,
+      "bundle_url": "https://github.com/Akira2276/sts2mm-profiles/releases/download/bundles/Painter_v0.32.zip",
+      "bundle_sha256": "3aa3ac0d8d070df38a41c99d15712df317bbbcfb73e4ff262dc9eb71fccf1fa9"
+    },
+    {
+      "name": "Portalcraft",
+      "version": "v0.2.8",
+      "source": null,
+      "hash": "17ae4ff3ee5f973d50396997bdc773378bfb97f64782858e1a176fcd4b783c52",
+      "files": [
+        "sts2_char_portalcraft\\sts2_char_portalcraft.dll",
+        "sts2_char_portalcraft\\sts2_char_portalcraft.json",
+        "sts2_char_portalcraft\\sts2_char_portalcraft.pck"
+      ],
+      "folder_name": "sts2_char_portalcraft",
+      "mod_id": "sts2_char_portalcraft",
+      "enabled": false,
+      "bundle_url": "https://github.com/Akira2276/sts2mm-profiles/releases/download/bundles/Portalcraft_v0.2.8.zip",
+      "bundle_sha256": "e18ea83d28b36925350b2b47b27fa230ceb6623a84193cfb37fe4b3bc48e5594"
+    },
+    {
+      "name": "Watcher",
+      "version": "v1.4.4",
+      "source": null,
+      "hash": "514f3c1f45706b74453fc829330c95869c01f9699e8cbfd382f4f4cc94a053be",
+      "files": [
+        "Watcher\\Watcher.dll",
+        "Watcher\\Watcher.json",
+        "Watcher\\Watcher.pck"
+      ],
+      "folder_name": "Watcher",
+      "mod_id": "Watcher",
+      "enabled": false,
+      "bundle_url": "https://github.com/Akira2276/sts2mm-profiles/releases/download/bundles/Watcher_v1.4.4.zip",
+      "bundle_sha256": "9fa018e70f0276fde13eb633886ae5b42a6a491d3ca9c43b59714fbdb68bea1b"
     }
   ],
   "created_at": "2026-05-15T20:59:06.286587900Z",
-  "updated_at": "2026-05-15T21:19:14.017178100Z",
+  "updated_at": "2026-05-16T19:22:23.955586600Z",
   "public": false
 }
