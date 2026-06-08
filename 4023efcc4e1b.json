@@ -16,8 +16,8 @@
       "folder_name": "AncientsAwakened",
       "mod_id": "AncientsAwakened",
       "enabled": true,
-      "bundle_url": "https://github.com/Akira2276/sts2mm-profiles/releases/download/bundles/Ancients_Awakened_v1.2.4_96756fa8.zip",
-      "bundle_sha256": "96756fa88d28151621952dfb38752d4b25db94f938958fc9b567f45dea51f2eb"
+      "bundle_url": "https://github.com/Akira2276/sts2mm-profiles/releases/download/bundles/Ancients_Awakened_v1.2.4_d7410d28.zip",
+      "bundle_sha256": "d7410d28b608b3d4fc069cfdeb5bea3db410350313cd5cccc5b76b22f334b586"
     },
     {
       "name": "Aphrodite Ancient",
@@ -33,8 +33,8 @@
       "folder_name": "AphroditeAncient",
       "mod_id": "AphroditeAncient",
       "enabled": true,
-      "bundle_url": "https://github.com/Akira2276/sts2mm-profiles/releases/download/bundles/Aphrodite_Ancient_v0.1.11_cbf02edc.zip",
-      "bundle_sha256": "cbf02edc3b5148838b242eb3f63f1c2886922f37934452653e47c6e7c7a2bd43"
+      "bundle_url": "https://github.com/Akira2276/sts2mm-profiles/releases/download/bundles/Aphrodite_Ancient_v0.1.11_f9957d74.zip",
+      "bundle_sha256": "f9957d74030fcfb85ae31ff8bab8b0ea98c9a71a44e36c24e49a2262a5f52e90"
     },
     {
       "name": "BaseLib",
@@ -49,8 +49,8 @@
       "folder_name": "BaseLib",
       "mod_id": "BaseLib",
       "enabled": true,
-      "bundle_url": "https://github.com/Akira2276/sts2mm-profiles/releases/download/bundles/BaseLib_v3.2.0_4231c635.zip",
-      "bundle_sha256": "4231c635935256756fc30cbe2ef119a31e489e54e6279de6cb04a12811d4180d"
+      "bundle_url": "https://github.com/Akira2276/sts2mm-profiles/releases/download/bundles/BaseLib_v3.2.0_6ad4495b.zip",
+      "bundle_sha256": "6ad4495be482dad46350d097724778df73afeb7fb7d7be3f145fa7ca58a2d2d0"
     },
     {
       "name": "Better Mod Menu",
@@ -64,8 +64,8 @@
       "folder_name": "BetterModMenu",
       "mod_id": "BetterModMenu",
       "enabled": true,
-      "bundle_url": "https://github.com/Akira2276/sts2mm-profiles/releases/download/bundles/Better_Mod_Menu_v0.0.5_0753fdef.zip",
-      "bundle_sha256": "0753fdef07536395e2d6d57ff84230057acbb3143168c3e596a8a8f17d69f459"
+      "bundle_url": "https://github.com/Akira2276/sts2mm-profiles/releases/download/bundles/Better_Mod_Menu_v0.0.5_fd5d736f.zip",
+      "bundle_sha256": "fd5d736f9aebf6d3a738653fbfd441ceb13f6b5a565e75252aa31e690dcac3f9"
     },
     {
       "name": "Booba Necrobinder Mod",
@@ -80,8 +80,8 @@
       "folder_name": "Booba-Necrobinder-Mod",
       "mod_id": "Booba-Necrobinder-Mod",
       "enabled": true,
-      "bundle_url": "https://github.com/Akira2276/sts2mm-profiles/releases/download/bundles/Booba_Necrobinder_Mod_v1.0.7_4ef7f0a7.zip",
-      "bundle_sha256": "4ef7f0a7e86b8ff5c3a23b23074d6f892ee1125b95f289d9a237491e81a7df49"
+      "bundle_url": "https://github.com/Akira2276/sts2mm-profiles/releases/download/bundles/Booba_Necrobinder_Mod_v1.0.7_b5b6ab43.zip",
+      "bundle_sha256": "b5b6ab430918bb962b2930be30b3883ecb42f322459c750dc736d32071cb7fa4"
     },
     {
       "name": "Codex Endless Mode",
@@ -96,8 +96,8 @@
       "folder_name": "codex.sts2.endlessmode",
       "mod_id": "codex.sts2.endlessmode",
       "enabled": true,
-      "bundle_url": "https://github.com/Akira2276/sts2mm-profiles/releases/download/bundles/Codex_Endless_Mode_v0.2.10_8a8bfc98.zip",
-      "bundle_sha256": "8a8bfc98ece87847f98a6eeda8fb935939c781d96571f14ec55c54f606c90399"
+      "bundle_url": "https://github.com/Akira2276/sts2mm-profiles/releases/download/bundles/Codex_Endless_Mode_v0.2.10_e33a1f5e.zip",
+      "bundle_sha256": "e33a1f5e9452811af6e394b94d34b1f4e28dabad805c3ebd872ed8df3279add5"
     },
     {
       "name": "Dionysus Ancient",
@@ -113,8 +113,8 @@
       "folder_name": "DionysusAncient",
       "mod_id": "DionysusAncient",
       "enabled": true,
-      "bundle_url": "https://github.com/Akira2276/sts2mm-profiles/releases/download/bundles/Dionysus_Ancient_v0.2.4_ba804fcf.zip",
-      "bundle_sha256": "ba804fcfedc3c5ad568d8b94499e81443b7e8f17377ff864f1a95973c0ac1985"
+      "bundle_url": "https://github.com/Akira2276/sts2mm-profiles/releases/download/bundles/Dionysus_Ancient_v0.2.4_46ebf50f.zip",
+      "bundle_sha256": "46ebf50f403a678432f6d395465dd4e3a1b89ce2b1381ee4baa82b05fe8e6b5e"
     },
     {
       "name": "Faust",
@@ -129,8 +129,25 @@
       "folder_name": "Faust",
       "mod_id": "Faust",
       "enabled": true,
-      "bundle_url": "https://github.com/Akira2276/sts2mm-profiles/releases/download/bundles/Faust_v0.1.7.beta_9d739e5a.zip",
-      "bundle_sha256": "9d739e5a2098c1d7581c1a9a2171be6b872b5cbd5fc24f3dd055c8dafe7b7f16"
+      "bundle_url": "https://github.com/Akira2276/sts2mm-profiles/releases/download/bundles/Faust_v0.1.7.beta_c7e3446e.zip",
+      "bundle_sha256": "c7e3446e5a3f67e329281a87ca123ae236745bc4666af73b9a4701484a8a8378"
+    },
+    {
+      "name": "Heathcliff Wild Hunt (Beta)",
+      "version": "0.0.1",
+      "source": null,
+      "hash": "b773a02de7026d54d41b12d09edc44e1d3725da6c6d47a50e880d8d5567d60b7",
+      "files": [
+        "HeathcliffWildHunt-beta\\HeathcliffWildHunt.dll",
+        "HeathcliffWildHunt-beta\\HeathcliffWildHunt.json",
+        "HeathcliffWildHunt-beta\\HeathcliffWildHunt.pck",
+        "HeathcliffWildHunt-beta\\HeathcliffWildHunt.pdb"
+      ],
+      "folder_name": "HeathcliffWildHunt-beta",
+      "mod_id": "HeathcliffWildHunt",
+      "enabled": true,
+      "bundle_url": "https://github.com/Akira2276/sts2mm-profiles/releases/download/bundles/Heathcliff_Wild_Hunt_.Beta._v0.0.1_b499ca5e.zip",
+      "bundle_sha256": "b499ca5e4e9fa3694baff51363377d3ee7a395faf33b1c6769c5689af11263dd"
     },
     {
       "name": "InfiniteUpgrades",
@@ -145,8 +162,8 @@
       "folder_name": "InfiniteUpgrades",
       "mod_id": "InfiniteUpgrades",
       "enabled": true,
-      "bundle_url": "https://github.com/Akira2276/sts2mm-profiles/releases/download/bundles/InfiniteUpgrades_v1.0.0_c68e96e4.zip",
-      "bundle_sha256": "c68e96e47705a0d908a5fcf34d0a6c324178009896a3abe93c64d13fbf30fe42"
+      "bundle_url": "https://github.com/Akira2276/sts2mm-profiles/releases/download/bundles/InfiniteUpgrades_v1.0.0_00edcc82.zip",
+      "bundle_sha256": "00edcc82197245f0d87d0efea9375bd2d0f79477a25efd5ff21981a5c6cc4e6a"
     },
     {
       "name": "Keyboard Quick Play",
@@ -160,8 +177,8 @@
       "folder_name": "KeyboardQuickPlay",
       "mod_id": "KeyboardQuickPlay",
       "enabled": true,
-      "bundle_url": "https://github.com/Akira2276/sts2mm-profiles/releases/download/bundles/Keyboard_Quick_Play_v1.0.7_5a775392.zip",
-      "bundle_sha256": "5a7753924fd8acd4aab6a4f3032b42093f6f0ffee29f73be2496ce5f08d33e6e"
+      "bundle_url": "https://github.com/Akira2276/sts2mm-profiles/releases/download/bundles/Keyboard_Quick_Play_v1.0.7_0d3e6a3a.zip",
+      "bundle_sha256": "0d3e6a3af328f8ba860e35a626446e37ab4711bc7c56582d0eefc7f1915de07b"
     },
     {
       "name": "Limbus Ancient",
@@ -176,8 +193,8 @@
       "folder_name": "LimbusAncient",
       "mod_id": "LimbusAncient",
       "enabled": true,
-      "bundle_url": "https://github.com/Akira2276/sts2mm-profiles/releases/download/bundles/Limbus_Ancient_v0.1.0_157b852e.zip",
-      "bundle_sha256": "157b852e9c987e8629425fc5029a0e513aedfadf45d1af39f4fe26ebba3d3685"
+      "bundle_url": "https://github.com/Akira2276/sts2mm-profiles/releases/download/bundles/Limbus_Ancient_v0.1.0_60b63393.zip",
+      "bundle_sha256": "60b633939f6d03661564fed1bbe6a17c00176995fc500048e6fb1abeaac3c17b"
     },
     {
       "name": "MarthCharacterMod",
@@ -192,8 +209,8 @@
       "folder_name": "MarthCharacterMod",
       "mod_id": "MarthCharacterMod",
       "enabled": true,
-      "bundle_url": "https://github.com/Akira2276/sts2mm-profiles/releases/download/bundles/MarthCharacterMod_v1.0.4_299ecada.zip",
-      "bundle_sha256": "299ecada2d781f907c097c15aed6a11c0bb90c2600d40f0c5a833a1a3f9064a0"
+      "bundle_url": "https://github.com/Akira2276/sts2mm-profiles/releases/download/bundles/MarthCharacterMod_v1.0.4_9717f105.zip",
+      "bundle_sha256": "9717f1054eba2461f51f736f6f4a087f873bda19d43e634c863ddb696e918e94"
     },
     {
       "name": "Overlord Laharl",
@@ -208,8 +225,8 @@
       "folder_name": "Laharl",
       "mod_id": "Laharl",
       "enabled": true,
-      "bundle_url": "https://github.com/Akira2276/sts2mm-profiles/releases/download/bundles/Overlord_Laharl_v0.9.3_9401387b.zip",
-      "bundle_sha256": "9401387bfdaeb20acfe59d924a06c3b348ed25f68b94d466d54f845c072643a2"
+      "bundle_url": "https://github.com/Akira2276/sts2mm-profiles/releases/download/bundles/Overlord_Laharl_v0.9.3_da010909.zip",
+      "bundle_sha256": "da010909bdc7c555f1bae579ccae235ce398e1d19b90c0ed5ae2bff49f91a43e"
     },
     {
       "name": "Poseidon Ancient",
@@ -225,8 +242,8 @@
       "folder_name": "PoseidonAncient",
       "mod_id": "PoseidonAncient",
       "enabled": true,
-      "bundle_url": "https://github.com/Akira2276/sts2mm-profiles/releases/download/bundles/Poseidon_Ancient_v0.1.9_0233dcfa.zip",
-      "bundle_sha256": "0233dcfabdfb08ac84448616a627f322f97c65ca6e9c237ffef7a013fd1f2f33"
+      "bundle_url": "https://github.com/Akira2276/sts2mm-profiles/releases/download/bundles/Poseidon_Ancient_v0.1.9_ebe1b15f.zip",
+      "bundle_sha256": "ebe1b15fab1365bf89f7fe1fa60fadeac15356261fa01d670772643fcefede64"
     },
     {
       "name": "RitsuLib",
@@ -246,8 +263,8 @@
       "folder_name": "STS2-RitsuLib",
       "mod_id": "STS2-RitsuLib",
       "enabled": true,
-      "bundle_url": "https://github.com/Akira2276/sts2mm-profiles/releases/download/bundles/RitsuLib_v0.4.11_7185c8ed.zip",
-      "bundle_sha256": "7185c8edd3fd16a9a83eec006c7e85d3b58c4f8afcff3941bea59cb2ac770a8e"
+      "bundle_url": "https://github.com/Akira2276/sts2mm-profiles/releases/download/bundles/RitsuLib_v0.4.11_c0260d79.zip",
+      "bundle_sha256": "c0260d7927a130c72d0cd941c5528dbf917ab39144beac25eab1253456f74aa0"
     },
     {
       "name": "Show Me What You Got",
@@ -262,8 +279,8 @@
       "folder_name": "ShowMeWhatYouGot",
       "mod_id": "ShowMeWhatYouGot",
       "enabled": true,
-      "bundle_url": "https://github.com/Akira2276/sts2mm-profiles/releases/download/bundles/Show_Me_What_You_Got_v1.0.1_d8ffd25f.zip",
-      "bundle_sha256": "d8ffd25f38eda33452d1711d7fc4b0c23dc50eee098e661f9e67347c6c0e9e1e"
+      "bundle_url": "https://github.com/Akira2276/sts2mm-profiles/releases/download/bundles/Show_Me_What_You_Got_v1.0.1_4287f521.zip",
+      "bundle_sha256": "4287f521a6657b5f4399a0117ef150b7f08a17f5963f589d7c0f4ff1e73aaeaa"
     },
     {
       "name": "STS2-FSF-gil-regent",
@@ -278,8 +295,8 @@
       "folder_name": "STS2-FSF-gil-regent",
       "mod_id": "STS2-FSF-gil-regent",
       "enabled": true,
-      "bundle_url": "https://github.com/Akira2276/sts2mm-profiles/releases/download/bundles/STS2-FSF-gil-regent_v0.1.0_a6346e65.zip",
-      "bundle_sha256": "a6346e658b1be816923dff3b81909b4692018457d80c59f55aa563c25171b534"
+      "bundle_url": "https://github.com/Akira2276/sts2mm-profiles/releases/download/bundles/STS2-FSF-gil-regent_v0.1.0_486c5d00.zip",
+      "bundle_sha256": "486c5d00e7066aebfa121c9a26cdb040e53f8daca66081a7c334a6cd8ac73654"
     },
     {
       "name": "TheQueen",
@@ -2185,8 +2202,8 @@
       "folder_name": "TheQueen",
       "mod_id": "TheQueen",
       "enabled": true,
-      "bundle_url": "https://github.com/Akira2276/sts2mm-profiles/releases/download/bundles/TheQueen_v1.1_3f613b75.zip",
-      "bundle_sha256": "3f613b7550eae0c484d515f89bf24dfcf7014e5be4d6f3450e9527dc4fffc879"
+      "bundle_url": "https://github.com/Akira2276/sts2mm-profiles/releases/download/bundles/TheQueen_v1.1_fbb5633e.zip",
+      "bundle_sha256": "fbb5633ecc90f271a7ff068c89f220b0b31a91506b4c1018952eade475789440"
     },
     {
       "name": "TheRailgun2",
@@ -2201,8 +2218,8 @@
       "folder_name": "TheRailgun2",
       "mod_id": "TheRailgun2",
       "enabled": true,
-      "bundle_url": "https://github.com/Akira2276/sts2mm-profiles/releases/download/bundles/TheRailgun2_v0.4.0_f543306b.zip",
-      "bundle_sha256": "f543306b464ebe16538894ad64b2c43a3bbb930116cb34085d28734e3303d2ea"
+      "bundle_url": "https://github.com/Akira2276/sts2mm-profiles/releases/download/bundles/TheRailgun2_v0.4.0_f23d4671.zip",
+      "bundle_sha256": "f23d46716a6d36963e6cd486304e8ffdd9d97ebd0bec9a635a12ae60afbb8846"
     },
     {
       "name": "Unified Save Path",
@@ -2217,8 +2234,8 @@
       "folder_name": "UnifiedSavePath",
       "mod_id": "UnifiedSavePath",
       "enabled": true,
-      "bundle_url": "https://github.com/Akira2276/sts2mm-profiles/releases/download/bundles/Unified_Save_Path_v1.0.0_3030e6e7.zip",
-      "bundle_sha256": "3030e6e78de89d1c42bcd40250b3fd2e27955ac55ca1d1ef753f1b9d85f7ee94"
+      "bundle_url": "https://github.com/Akira2276/sts2mm-profiles/releases/download/bundles/Unified_Save_Path_v1.0.0_99993cb5.zip",
+      "bundle_sha256": "99993cb5d5ea0a599e396866cf2e04788322741fadab5b4c033ea5ed515a5c24"
     },
     {
       "name": "Zeus Ancient",
@@ -2234,8 +2251,8 @@
       "folder_name": "ZeusAncient",
       "mod_id": "ZeusAncient",
       "enabled": true,
-      "bundle_url": "https://github.com/Akira2276/sts2mm-profiles/releases/download/bundles/Zeus_Ancient_v0.4.2_d57bf677.zip",
-      "bundle_sha256": "d57bf677aa3b181342a8cd2249e62f3daff736b3798c910c073b3700ef1b1aa6"
+      "bundle_url": "https://github.com/Akira2276/sts2mm-profiles/releases/download/bundles/Zeus_Ancient_v0.4.2_bb8ee957.zip",
+      "bundle_sha256": "bb8ee957c30c77be22117355f9503a57c191c4f00c7572c0b08be9daa175ffd7"
     },
     {
       "name": "万象辉星[RegentFX]",
@@ -2250,8 +2267,8 @@
       "folder_name": "RegentFX",
       "mod_id": "RegentFX",
       "enabled": true,
-      "bundle_url": "https://github.com/Akira2276/sts2mm-profiles/releases/download/bundles/RegentFX._v0.3.0_740024af.zip",
-      "bundle_sha256": "740024af4c08b72f9e6936c2261e0b008e9fa01872d11b58e5277d6359560e99"
+      "bundle_url": "https://github.com/Akira2276/sts2mm-profiles/releases/download/bundles/RegentFX._v0.3.0_c5171b11.zip",
+      "bundle_sha256": "c5171b11ffd030ae92f5ea22994c086146789fa82058851f7e9a98bf1037eb3d"
     },
     {
       "name": "Card Overhaul",
@@ -2266,25 +2283,8 @@
       "folder_name": "CardOverhaul",
       "mod_id": "CardOverhaul",
       "enabled": false,
-      "bundle_url": "https://github.com/Akira2276/sts2mm-profiles/releases/download/bundles/Card_Overhaul_v1.0.0_c28b586e.zip",
-      "bundle_sha256": "c28b586e3d063bf4e6e11514729fc1060e1d1d11ef470de033e7bcf48e059fa1"
-    },
-    {
-      "name": "Heathcliff Wild Hunt (Beta)",
-      "version": "0.0.1",
-      "source": null,
-      "hash": "cd02490232bd399287a06162842f8090830b63c15c9b9da41242c6a95b47e41f",
-      "files": [
-        "HeathcliffWildHunt-beta\\HeathcliffWildHunt.dll",
-        "HeathcliffWildHunt-beta\\HeathcliffWildHunt.json",
-        "HeathcliffWildHunt-beta\\HeathcliffWildHunt.pck",
-        "HeathcliffWildHunt-beta\\HeathcliffWildHunt.pdb"
-      ],
-      "folder_name": "HeathcliffWildHunt-beta",
-      "mod_id": "HeathcliffWildHunt",
-      "enabled": false,
-      "bundle_url": "https://github.com/Akira2276/sts2mm-profiles/releases/download/bundles/Heathcliff_Wild_Hunt_.Beta._v0.0.1_a1940fb3.zip",
-      "bundle_sha256": "a1940fb3e8a3ccd16329ff0b485d21cc6e9a1d2541cf5ecfeb06c8c4e98dea5c"
+      "bundle_url": "https://github.com/Akira2276/sts2mm-profiles/releases/download/bundles/Card_Overhaul_v1.0.0_03f9bd55.zip",
+      "bundle_sha256": "03f9bd5531b084339b0ad33a9a724c9320e79da6576ad1e8eb6abaf335e222c4"
     },
     {
       "name": "Kirby",
@@ -2299,8 +2299,8 @@
       "folder_name": "CustomCharacterKirby",
       "mod_id": "CustomCharacterKirby",
       "enabled": false,
-      "bundle_url": "https://github.com/Akira2276/sts2mm-profiles/releases/download/bundles/Kirby_v0.5.4_6deb8fa2.zip",
-      "bundle_sha256": "6deb8fa212b4d9ff4cb9430c98723184b5c6fff4b000024e41b3e52f58aad393"
+      "bundle_url": "https://github.com/Akira2276/sts2mm-profiles/releases/download/bundles/Kirby_v0.5.4_50aeeedd.zip",
+      "bundle_sha256": "50aeeedd8267a13fbab9d808531fcbe4cde9bac7b18b53b791107578fa7ce159"
     },
     {
       "name": "Painter",
@@ -2315,8 +2315,8 @@
       "folder_name": "Painter",
       "mod_id": "Painter",
       "enabled": false,
-      "bundle_url": "https://github.com/Akira2276/sts2mm-profiles/releases/download/bundles/Painter_v0.32_4dbf947e.zip",
-      "bundle_sha256": "4dbf947e0f0e7b82cbf448205ebc4cd53555b54dbd1c7462edafc2ad199e18eb"
+      "bundle_url": "https://github.com/Akira2276/sts2mm-profiles/releases/download/bundles/Painter_v0.32_62c38a71.zip",
+      "bundle_sha256": "62c38a716cad5fe2b114894ee3c8f3df08d91352fbf4be59c17bea4ee7b49fd7"
     },
     {
       "name": "Portalcraft",
@@ -2331,8 +2331,8 @@
       "folder_name": "sts2_char_portalcraft",
       "mod_id": "sts2_char_portalcraft",
       "enabled": false,
-      "bundle_url": "https://github.com/Akira2276/sts2mm-profiles/releases/download/bundles/Portalcraft_v0.2.8_2adf19c4.zip",
-      "bundle_sha256": "2adf19c4688618f42aa69e09797399074d730fab3062654fb7559be1a2d87fb1"
+      "bundle_url": "https://github.com/Akira2276/sts2mm-profiles/releases/download/bundles/Portalcraft_v0.2.8_56ebef39.zip",
+      "bundle_sha256": "56ebef391399ae5b1c330b35fa3df7ab057dd4f04ddc1082a6f50a34d1e99598"
     },
     {
       "name": "Watcher",
@@ -2347,8 +2347,8 @@
       "folder_name": "Watcher",
       "mod_id": "Watcher",
       "enabled": false,
-      "bundle_url": "https://github.com/Akira2276/sts2mm-profiles/releases/download/bundles/Watcher_v1.4.5_7a0bc24b.zip",
-      "bundle_sha256": "7a0bc24b2a21a16d44e9fc673bead04b8ad72e06667f0b37088493e117fe6c32"
+      "bundle_url": "https://github.com/Akira2276/sts2mm-profiles/releases/download/bundles/Watcher_v1.4.5_2565d1a4.zip",
+      "bundle_sha256": "2565d1a4300c8b2b9466bc30889646178d6810ec14c10b59452f2a9c20b14b37"
     },
     {
       "name": "Watcher Feminized",
@@ -2362,8 +2362,8 @@
       "folder_name": "watcherFeminized",
       "mod_id": "watcherFeminized",
       "enabled": false,
-      "bundle_url": "https://github.com/Akira2276/sts2mm-profiles/releases/download/bundles/Watcher_Feminized_v1.0.0_b57ca498.zip",
-      "bundle_sha256": "b57ca498cf72069f9075ff6c7d0a405e99769b1870cb57bd1cf5d0552817641a"
+      "bundle_url": "https://github.com/Akira2276/sts2mm-profiles/releases/download/bundles/Watcher_Feminized_v1.0.0_85bd56bf.zip",
+      "bundle_sha256": "85bd56bf37d27ea22a61fdcbadd6e59566375e75446c24d92d1a0a75b7feebf8"
     },
     {
       "name": "皮皮配置: ModConfig",
@@ -2378,11 +2378,11 @@
       "folder_name": "ModConfig",
       "mod_id": "ModConfig",
       "enabled": false,
-      "bundle_url": "https://github.com/Akira2276/sts2mm-profiles/releases/download/bundles/__ModConfig_v0.2.3_d6e354e5.zip",
-      "bundle_sha256": "d6e354e50fa8f616992ae07db1a5c31b43733afeb242a97db60d06b222602135"
+      "bundle_url": "https://github.com/Akira2276/sts2mm-profiles/releases/download/bundles/__ModConfig_v0.2.3_624931f5.zip",
+      "bundle_sha256": "624931f5e165bfb65b9a222ee33cef6fab2102073c48ec390839e135d110cfda"
     }
   ],
   "created_at": "2026-05-15T20:59:06.286587900Z",
-  "updated_at": "2026-06-07T18:44:26.025300600Z",
+  "updated_at": "2026-06-08T21:13:58.191058Z",
   "public": false
 }
